@@ -78,7 +78,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"Floor0\/desks.png",
+         "image":"desks.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -91,7 +91,7 @@
         {
          "columns":8,
          "firstgid":111,
-         "image":"Floor0\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -110,7 +110,7 @@
              "orientation":"orthogonal",
              "width":20
             },
-         "image":"Floor0\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -123,7 +123,7 @@
         {
          "columns":16,
          "firstgid":431,
-         "image":"Floor0\/walls.png",
+         "image":"walls.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -136,7 +136,7 @@
         {
          "columns":16,
          "firstgid":671,
-         "image":"Floor0\/walls2.png",
+         "image":"walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -149,7 +149,7 @@
         {
          "columns":8,
          "firstgid":927,
-         "image":"Floor0\/xmas.png",
+         "image":"xmas.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
@@ -162,7 +162,7 @@
         {
          "columns":16,
          "firstgid":1023,
-         "image":"Floor2\/general.png",
+         "image":"general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -175,7 +175,7 @@
         {
          "columns":4,
          "firstgid":1279,
-         "image":"Floor2\/parquet.png",
+         "image":"parquet.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
