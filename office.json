@@ -101,7 +101,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/weranders.github.io\/workadventure-map\/home.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/weranders.github.io\/workadventure-map\/home.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -119,7 +119,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/weranders.github.io\/workadventure-map\/apicellar.json#middlestart"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/weranders.github.io\/workadventure-map\/apicellar.json"
                 }],
          "type":"tilelayer",
          "visible":true,
